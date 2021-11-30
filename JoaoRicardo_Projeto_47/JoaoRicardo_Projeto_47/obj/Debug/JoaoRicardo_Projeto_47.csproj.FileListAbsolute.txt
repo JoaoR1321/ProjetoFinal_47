@@ -1,0 +1,32 @@
+C:\Users\erika\OneDrive\Área de Trabalho\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.csproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Área de Trabalho\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.Properties.Resources.resources
+C:\Users\erika\OneDrive\Área de Trabalho\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.csproj.GenerateResource.cache
+C:\Users\erika\OneDrive\Área de Trabalho\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\JoaoRicardo_Projeto_47.exe.config
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\JoaoRicardo_Projeto_47.exe
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\JoaoRicardo_Projeto_47.pdb
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\MySqlConnector.dll
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Buffers.dll
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Memory.dll
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\MySqlConnector.xml
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Buffers.xml
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Memory.xml
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.Form1.resources
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.ui.Form2.resources
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.ui.Form3.resources
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.ui.Login.resources
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.exe
+C:\Users\T-Gamer\Desktop\ProjetoFinal\JoaoRicardo_Projeto_47\JoaoRicardo_Projeto_47\obj\Debug\JoaoRicardo_Projeto_47.pdb
